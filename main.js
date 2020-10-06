@@ -5,7 +5,7 @@ import Test from './testClass.js'
 const App = document.querySelector('.App')
 App.innerHTML += `
 
-       <header class="mainHeader">
+       <header class="mainHeader slider">
             <nav class="navbar">
                 ${Navbar('fadliselaz')}
             </nav>
